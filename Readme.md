@@ -25,7 +25,7 @@ npm install
 ```
 <hr>
 
-3. To run a test
+4. To run a test
 ```
 npm test
 ```
