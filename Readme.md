@@ -1,6 +1,6 @@
-# Simple Express Mongo app by [Hardy Lutula](https://github.com/dylut2000)
+## Simple Express Mongo app by [Hardy Lutula](https://github.com/dylut2000)
 
-## For any suggestions, check me on [Twitter #dylut2000](https://twitter.com/dylut2000?lang=en).
+##### For any suggestions, check me on [Twitter #dylut2000](https://twitter.com/dylut2000?lang=en).
 <br>
 
 
