@@ -1,0 +1,11 @@
+{
+  "name": "dylut2000",
+  "version": "1.0.0",
+  "description": "simple NodeJS rest-api boilerplate",
+  "main": "server.js",
+  "scripts": {
+    "test": "jest --detectOpenHandles --forceExit"
+  },
+  "author": "hardy lutula #dylut2000",
+  "license": "ISC"
+}
