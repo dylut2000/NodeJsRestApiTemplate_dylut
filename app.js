@@ -12,6 +12,7 @@ app.use(morgan('dev'));
 // static express folder  
 
 // ajust cors...
+//app.use(cors());
 app.use((req, res, next) => {
     // you can add a specific origine or leave it as "*" for all or 'https://github.com/dylut2000'
     res.header('Access-Control-Allow-Origin', '*');
@@ -30,7 +31,10 @@ app.use((req, res, next) => {
 // Connect to mongo Database, find the mongodb function in the config/db.js
 connectDB();
 
+
 // different routes...
+
+
 
 /**
  * ⚠️ keep the following codes on the last ligne before exporting @express.app
